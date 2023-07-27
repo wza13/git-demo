@@ -1,7 +1,3 @@
-chasdf
+change2
 hello.txt
-hello.txt
-hello.txt
-hello.txt abcdefg
-hello.txt master test
 Some economists are convinced that this will be the Fed’s last rate rise in this cycle. Inflation has come down from its highs in 2022, with consumer prices rising just 3% year-on-year in June. Core inflation—which strips out volatile food and energy costs—has been a little more stubborn, but even it has started to soften, in a sign that underlying price pressures are easing. This opens a pathway for the Fed to relent, hopefully guiding America to a much-discussed soft landing. Ellen Zentner of Morgan Stanley, a bank, expects an “extended hold” for the Fed, presaging a rate cut at the start of next year.
